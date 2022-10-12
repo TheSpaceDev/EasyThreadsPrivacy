@@ -11,14 +11,14 @@ If you use a translator and there is any discrepancy, the English and original v
 
 # Data
 We store the following data in our database.
-(1.) Guild configuration. [Channels you add with /addchannel]
+(1.) Guild configuration. [Channels you add with /addchannel and if Bots should be ignored]
 (2.) Message Created. [We check for new messages but we don't read the message content]
 
 # Why we store
 We store this data in order to provide you with the best possible service and to use data for functions of this service. 
 Parts of this include to provide automated functionalities that are disabled by default.
 
-#Security
+# Security
 When we collect your information, we make all reasonable efforts to protect it from theft, loss, unauthorised access, disclosure, copying and use. Although we endeavour to keep the information you provide to us confidential, we must point out that no electronic data transmission or storage is 100% secure and no one can promise absolute data security. We will comply with the laws applicable to us in relation to any data breach. You are responsible for your choice of password and its overall security, as well as for the security of your own data within our services.
 Only a few of our trusted service developers have access to your personal data.
 
