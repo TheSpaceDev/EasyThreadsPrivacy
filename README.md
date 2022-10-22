@@ -11,7 +11,7 @@ If you use a translator and there is any discrepancy, the English and original v
 
 # Data
 We store the following data in our database.
-(1.) Guild configuration. [Channels you add with /addchannel and if Bots should be ignored]
+(1.) Guild configuration. [Channels you add with /addchannel, Thread Titles, Thread Messages and Bot Ignoration]
 (2.) Message Created. [We check for new messages but we don't read the message content]
 
 # Why we store
