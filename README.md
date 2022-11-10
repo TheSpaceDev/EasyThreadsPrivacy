@@ -11,8 +11,9 @@ If you use a translator and there is any discrepancy, the English and original v
 
 # Data
 We store the following data in our database.
-(1.) Guild configuration. [Channels you add with /addchannel, Thread Titles, Thread Messages and Bot Ignoration]
+(1.) Guild configuration. [Channels you add with /addchannel, Thread Names, Thread Messages and Bot Ignoration, Embed Configs and other settings]
 (2.) Message Created. [We check for new messages but we don't read the message content]
+(3.) Certain User IDs for the Threadpanel-cooldown
 
 # Why we store
 We store this data in order to provide you with the best possible service and to use data for functions of this service. 
