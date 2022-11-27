@@ -33,7 +33,7 @@ If we find out that a person is under this age, we will immediately and irrevoca
 
 # Deletion
 A deletion of the data can be requested at any time by contacting us. Please note that a deletion of the data can take up to 30 days.
-You can contact us on our Discord (https://discord.gg/nEsHB6hGaZ) or by sending an email to niklas@n1klas99.de to request a Deletion of Data.
+You can contact us on our Discord (https://discord.gg/nEsHB6hGaZ) to request a Deletion of Data.
 
 # Changes and Limits 
 We have the discretion to change our privacy policy to reflect updates to our business processes, current acceptable practices, or legal or regulatory changes. If we decide to change this Privacy Policy, we will post the changes here at the same link that you use to access this Privacy Policy. We reserve the right to update our Privacy Policy at any time without notice.
